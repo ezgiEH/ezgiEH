@@ -6,17 +6,32 @@ level of creativity, always focused on original and
 self-sacrificing work</h2>
 
 <h3>Get in Touch! 📬</h3>
-<a href="https://www.hackerrank.com/ezgihocaoglu"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="Ezgi Hocaoğlu | Hackerrank" width="50px"/></a>
-<a href="https://www.linkedin.com/in/ezgihocaoglu/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="Ezgi Hocaoğlu | Linkedin" width="40px"/></a>
-<a href="https://app.patika.dev/ezgiEH"><img align="left" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png" alt="Ezgi Hocaoğlu | Patika.dev" width="60px"/></a>
+<br>
 
+<a href="http://hello.ezgihocaoglu.co/">
+  <img align="center" src="http://hello.ezgihocaoglu.co/wp-content/uploads/2021/05/loader.png" alt="Ezgi Hocaoğlu" width="30px"/>
+</a>
+<a href="https://www.linkedin.com/in/ezgihocaoglu/">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="Ezgi Hocaoğlu | Linkedin" width="40px"/>
+</a>
+<a href="https://app.patika.dev/ezgiEH">
+  <img align="center" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png" alt="Ezgi Hocaoğlu | Patika.dev" width="60px"/>
+</a>
+<a href="https://www.hackerrank.com/ezgihocaoglu">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="Ezgi Hocaoğlu |     Hackerrank" width="50px"/>
+</a>
+<a href="https://coderbyte.com/profile/EzgiEH">
+  <img align="center" src="https://coderbytestaticimages.s3.amazonaws.com/consumer-v2/nav/coderbyte_logo_digital_multi_light.png" alt="Ezgi Hocaoğlu | Coderbyte" width="60px"/>
+</a>
+<a href="https://www.codewars.com/users/ezgiEH">
+  <img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="Ezgi Hocaoğlu | Codewars" width="40px"/>
+</a>
 <br>
 
 
 
 
-</br>
-- <h4>💬 If you have any question/feedback, please do not hesitate to reach out to me!</h4>
+<h4>💬 If you have any question/feedback, please do not hesitate to reach out to <a href="mailto:ezgihocaoglu@hotmail.com">Me!</a>.</h4>
 
 
 
