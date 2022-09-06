@@ -10,5 +10,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-https://github-readme-stats.vercel.app/api?username=ezgiEH&show_icons=true&theme=gradient
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=ezgiEH&show_icons=true&theme=gradient)
 
