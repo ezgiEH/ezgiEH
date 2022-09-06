@@ -64,8 +64,8 @@ self-sacrificing work</h2>
 
 <br>
 <hr>
-<a href="https://github.com/ezgiEH/Intent-Classification">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezgiEH&repo=Intent-Classification&theme=radical" />
+<a href="https://github.com/ezgiEH/iyzico-front-end-practicum">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezgiEH&repo=iyzico-front-end-practicum&theme=radical" />
 </a>
 <a href="https://github.com/ezgiEH/E-Commerce-Web-Site">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezgiEH&repo=E-Commerce-Web-Site&theme=radical" />
