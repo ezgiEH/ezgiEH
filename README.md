@@ -11,6 +11,7 @@
 - ⚡ Fun fact: ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezgiEH&show_icons=true&theme=swift)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ezgiEH&repo=github-readme-stats)](https://github.com/ezgiEH/Intent-Classification)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezgiEH&layout=compact)](https://github.com/ezgiEH/E-Commerce-Web-Site)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ezgiEH&repo=Intent-Classification)](https://github.com/ezgiEH/Intent-Classification)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ezgiEH&repo=E-Commerce-Web-Site)](https://github.com/ezgiEH/E-Commerce-Web-Site)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezgiEH&layout=compact)]
 
