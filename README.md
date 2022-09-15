@@ -6,7 +6,7 @@ level of creativity, always focused on original and
 self-sacrificing work</h2>
 
 <h3>Get in Touch! 📬</h3>
-<br>
+
 
 <a href="http://hello.ezgihocaoglu.co/">
   <img align="center" src="http://hello.ezgihocaoglu.co/wp-content/uploads/2021/05/loader.png" alt="Ezgi Hocaoğlu" width="30px"/>
