@@ -67,7 +67,7 @@ self-sacrificing work</h2>
 <a href="https://github.com/ezgiEH/iyzico-front-end-practicum">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezgiEH&repo=iyzico-front-end-practicum&theme=radical" />
 </a>
-<a href="https://github.com/ezgiEH/E-Commerce-Web-Site">
+<a href="https://github.com/ezgiEH/swapi-iyzico">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezgiEH&repo=swapi-iyzico&theme=radical" />
 </a>
 <b />
