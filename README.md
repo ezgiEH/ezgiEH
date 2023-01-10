@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm <a href="http://ezgihocaoglu.co/" >Ezgi</a> 👋 👩🏾‍💻</h1>
-<h2 align="center">I’m computer engineering graduate with remote
-experience. I’m a web developer trying to
+<h2 align="center">I’m a web developer trying to
 create professional jobs. I am a person with a high
 level of creativity, always focused on original and
 self-sacrificing work</h2>
@@ -25,6 +24,9 @@ self-sacrificing work</h2>
 </a>
 <a href="https://www.codewars.com/users/ezgiEH">
   <img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="Ezgi Hocaoğlu | Codewars" width="40px"/>
+</a>
+<a href="https://www.frontendmentor.io/profile/ezgiEH">
+  <img align="center" src="https://www.frontendmentor.io/static/images/logo-desktop.svg" alt="Ezgi Hocaoğlu | frontendmentor" width="40px"/>
 </a>
 <br>
 
