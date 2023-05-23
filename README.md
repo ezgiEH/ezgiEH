@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="http://ezgihocaoglu.co/" >Ezgi</a> 👋 👩🏾‍💻</h1>
+<h1 align="center">Hi, I'm <a href="http://ezgihocaoglu.co/" >Ezgi Hocaoğlu</a> 👋 👩🏾‍💻</h1>
 <h2 align="center">I’m a web developer trying to
 create professional jobs. I am a person with a high
 level of creativity, always focused on original and
@@ -7,9 +7,7 @@ self-sacrificing work</h2>
 <h3>Get in Touch! 📬</h3>
 
 
-<a href="http://hello.ezgihocaoglu.co/">
-  <img align="center" src="http://hello.ezgihocaoglu.co/wp-content/uploads/2021/05/loader.png" alt="Ezgi Hocaoğlu" width="30px"/>
-</a>
+
 <a href="https://www.linkedin.com/in/ezgihocaoglu/">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="Ezgi Hocaoğlu | Linkedin" width="40px"/>
 </a>
@@ -66,10 +64,10 @@ self-sacrificing work</h2>
 
 <br>
 <hr>
-<a href="https://github.com/ezgiEH/iyzico-front-end-practicum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezgiEH&repo=iyzico-front-end-practicum&theme=radical" />
+<a href="https://github.com/ezgiEH/Audiophile">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezgiEH&repo=Audiophile&theme=radical" />
 </a>
-<a href="https://github.com/ezgiEH/swapi-iyzico">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezgiEH&repo=swapi-iyzico&theme=radical" />
+<a href="https://github.com/ezgiEH/swapi-v2.0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezgiEH&repo=swapi-v2.0&theme=radical" />
 </a>
 <b />
