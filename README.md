@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="http://ezgihocaoglu.co/" >Ezgi Hocaoğlu</a> 👋 👩🏾‍💻</h1>
+<h1 align="center">Hi, I'm <a href="https://ezgi.fun/" >Ezgi Hocaoğlu</a> 👋 👩🏾‍💻</h1>
 <h2 align="center">I’m a web developer trying to
 create professional jobs. I am a person with a high
 level of creativity, always focused on original and
