@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://ezgi.fun/" >Ezgi Hocaoğlu</a> 👋 👩🏾‍💻</h1>
+<h1 align="center">Hi, I'm <a href="https://ezgi.fun/" >Ezgi Hocaoğlu</a> 👩🏾‍💻</h1>
 <h2 align="center">I’m a web developer trying to
 create professional jobs. I am a person with a high
 level of creativity, always focused on original and
@@ -20,9 +20,6 @@ self-sacrificing work</h2>
 <a href="https://coderbyte.com/profile/EzgiEH">
   <img align="center" src="https://coderbytestaticimages.s3.amazonaws.com/consumer-v2/nav/coderbyte_logo_digital_multi_light.png" alt="Ezgi Hocaoğlu | Coderbyte" width="60px"/>
 </a>
-<a href="https://www.codewars.com/users/ezgiEH">
-  <img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="Ezgi Hocaoğlu | Codewars" width="40px"/>
-</a>
 <a href="https://www.frontendmentor.io/profile/ezgiEH">
   <img align="center" src="https://www.frontendmentor.io/static/images/logo-desktop.svg" alt="Ezgi Hocaoğlu | frontendmentor" width="40px"/>
 </a>
@@ -31,7 +28,7 @@ self-sacrificing work</h2>
 
 
 
-<h4>💬 If you have any question/feedback, please do not hesitate to reach out to <a href="mailto:ezgihocaoglu@hotmail.com">Me!</a>.</h4>
+<h4>💬 If you have any question/feedback, please do not hesitate to reach out to <a href="mailto:ezgihocaoglu01@gmail.com">Me!</a>.</h4>
 
 
 
