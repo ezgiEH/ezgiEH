@@ -64,7 +64,7 @@ self-sacrificing work</h2>
 <a href="https://github.com/ezgiEH/Audiophile">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezgiEH&repo=Audiophile&theme=radical" />
 </a>
-<a href="https://github.com/ezgiEH/swapi-v2.0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezgiEH&repo=swapi-v2.0&theme=radical" />
+<a href="https://github.com/ezgiEH/ArewGym"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezgiEH&repo=ArewGym&theme=radical" />
 </a>
 <b />
