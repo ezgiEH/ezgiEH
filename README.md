@@ -1,70 +1,93 @@
-<h1 align="center">Hi, I'm <a href="https://ezgi.fun/" >Ezgi Hocaoğlu</a> 👩🏾‍💻</h1>
-<h2 align="center">I’m a web developer trying to
-create professional jobs. I am a person with a high
-level of creativity, always focused on original and
-self-sacrificing work</h2>
+<!-- 💫 Ezgi Hocaoğlu - GitHub README 💫 -->
 
-<h3>Get in Touch! 📬</h3>
+<h1 align="center">
+  Hi, I'm <a href="https://ezgihocaoglu.com/" target="_blank">Ezgi Hocaoğlu</a>
+</h1>
 
+<h3 align="center">
+  🚀 Creative Web Developer | 💡 Lifelong Learner | 🌍 Passionate about Building Meaningful Products
+</h3>
 
+<p align="center">
+  <em>“Code is my brush, and the web is my canvas.”</em>
+</p>
 
-<a href="https://www.linkedin.com/in/ezgihocaoglu/">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="Ezgi Hocaoğlu | Linkedin" width="40px"/>
-</a>
-<a href="https://app.patika.dev/ezgiEH">
-  <img align="center" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png" alt="Ezgi Hocaoğlu | Patika.dev" width="60px"/>
-</a>
-<a href="https://www.hackerrank.com/ezgihocaoglu">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="Ezgi Hocaoğlu |     Hackerrank" width="50px"/>
-</a>
-<a href="https://coderbyte.com/profile/EzgiEH">
-  <img align="center" src="https://coderbytestaticimages.s3.amazonaws.com/consumer-v2/nav/coderbyte_logo_digital_multi_light.png" alt="Ezgi Hocaoğlu | Coderbyte" width="60px"/>
-</a>
-<a href="https://www.frontendmentor.io/profile/ezgiEH">
-  <img align="center" src="https://www.frontendmentor.io/static/images/logo-desktop.svg" alt="Ezgi Hocaoğlu | frontendmentor" width="40px"/>
-</a>
-<br>
+---
 
+### 🌟 About Me
 
+- 👩🏽‍💻 I’m a web developer focused on **creative, high-quality, and user-centric** digital experiences.  
+- 🧠 Always exploring new tools, frameworks, and design principles.  
+- 🎨 Passionate about **UI/UX, animations**, and **clean code architecture**.  
+- ☕ Powered by coffee and inspired by originality.  
 
+---
 
-<h4>💬 If you have any question/feedback, please do not hesitate to reach out to <a href="mailto:ezgihocaoglu01@gmail.com">Me!</a>.</h4>
+### 🌈 Tech Stack & Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,git,figma,unity,vscode&theme=dark" />
+</p>
 
+---
 
-<hr>
-<table>
-  <tr>
-    <th>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezgiEH&layout=compact&theme=radical&hide_border=true" />
-      </th>
-    <th>
-      <img align="center" src="https://skills.thijs.gg/icons?i=html,css,js,react,php,git,nodejs,figma,unity" />
-     </th>
-  </tr>
-</table>
+### 📬 Connect with Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ezgihocaoglu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://app.patika.dev/ezgiEH">
+    <img src="https://img.shields.io/badge/Patika.dev-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/ezgihocaoglu">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://coderbyte.com/profile/EzgiEH">
+    <img src="https://img.shields.io/badge/Coderbyte-303030?style=for-the-badge&logo=coderbyte&logoColor=white" />
+  </a>
+  <a href="https://www.frontendmentor.io/profile/ezgiEH">
+    <img src="https://img.shields.io/badge/Frontend%20Mentor-00C6A7?style=for-the-badge&logo=frontendmentor&logoColor=white" />
+  </a>
+</p>
 
+📩 **Got feedback or collaboration ideas?**  
+Feel free to email me at [ezgihocaoglu01@gmail.com](mailto:ezgihocaoglu01@gmail.com)
 
-<hr> 
-<table>
-  <tr>
-    <th>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ezgiEH&show_icons=true&theme=radical&hide_border=true" />
-      </th>
-    <th>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezgiEH&theme=radical&hide_border=true" />
-     </th>
-  </tr>
-</table>
+---
 
+### 📊 GitHub Insights
 
-<br>
-<hr>
-<a href="https://github.com/ezgiEH/Audiophile">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezgiEH&repo=Audiophile&theme=radical" />
-</a>
-<a href="https://github.com/ezgiEH/ArewGym"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezgiEH&repo=ArewGym&theme=radical" />
-</a>
-<b />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ezgiEH&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezgiEH&theme=radical&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezgiEH&layout=compact&theme=radical&hide_border=true" height="140"/>
+</p>
+
+---
+
+### 🧩 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/ezgiEH/Audiophile">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezgiEH&repo=Audiophile&theme=radical" />
+  </a>
+  <a href="https://github.com/ezgiEH/ArewGym">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezgiEH&repo=ArewGym&theme=radical" />
+  </a>
+</p>
+
+---
+
+### ✨ Fun Zone
+
+> 🪩 Pronouns: *me/myself*  
+> 🎧 Currently vibing to: *Lo-fi & game soundtracks*  
+> 💫 Motto: *Make it beautiful. Make it yours.*
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
